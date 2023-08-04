@@ -29,19 +29,8 @@ Cenário e Contexto:
 •	Propagação: Mutação leva à criação de um vírus que se espalha rapidamente, controlando os hospedeiros e causando mortes e massacres.
 Personagens Principais:
 
-•	Eletricista: Amigo do cientista, ele possui habilidades elétricas e ajuda o cientista a sobreviver combatendo os infectados e encontrando recursos para a pesquisa da cura.
-
 •	Cientista: Trabalhava no laboratório e estava envolvido nas pesquisas para a cura do câncer. Agora, ele busca chegar à capital da Noruega, Oslo, com a esperança de encontrar uma solução.
 
-Objetivo:
-Chegar a Oslo, a capital da Noruega, que ainda não foi infectada, para continuar as pesquisas e possivelmente encontrar a cura. Cenário principal do jogo vai ser uma estação de trem, onde parte da ação ocorre no vagão de trem. O objetivo é chegar à cabine de controle para guiar o trem até a estação de Oslo.
-Habilidade do Personagem:
-O eletricista carrega uma mochila com uma bateria e um fio ligado à sua mão, que ele usa como arma para eletrocutar os infectados.
-
-Desafios:
-O trem está cheio de infectados, e o protagonista deve evitá-los ou enfrentá-los.
-Atmosfera:
-Atmosfera de suspense e perigo constante devido à ameaça dos infectados. Elementos de sobrevivência e estratégia enquanto os personagens buscam chegar em segurança.
 
 
 
