@@ -61,7 +61,7 @@ O jogo terá pouca luz, será ação, com uma temática de terror.
 
 Classificação 12 anos.
 
-O cientista nao irá ter uma arma e vai ter que fugir sem ser notado ou pego pelos infectados.
+O cientista nao irá ter uma arma e vai ter que fugir sem ser pego pelo infectado.
 
 O jogo será em primeira pessoa.
 
