@@ -44,9 +44,15 @@ O jogo terá pouca luz, será ação, com uma temática de terror.
 
 • Cena mundo antes do vírus, momento no laboratorio onde o cientista está observando a cobaia recém infectada;
 
+O jogo vai iniciar com o cientista em um laboratorio escuro, e recebera a instrução de ir até a cobaia já infectada, e esculta um grito. 
+
 • Cena sala da cobaia, momento em que o jogador deve começar a fugir;
 
+O cientista assim que chega até a cobaia para verificar o motivo do grito, percebe que a cobaia tinha se soltado, e não estava com as caracteristicas fisicas de um humano normal.
+
 • Cena pós vírus tentando escapar do laborátorio.
+
+O jogador recebe uma instrução para correr, e a cobaia começa a persegui-lo. nesse momento o cientista precisa sair do laboratorio para a propria segurança. 
 
 Classificação 12 anos.
 
