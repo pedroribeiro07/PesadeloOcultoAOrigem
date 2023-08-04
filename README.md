@@ -51,6 +51,7 @@ Atmosfera de suspense e perigo constante devido à ameaça dos infectados. Eleme
 
 Nosso jogo irá se passar em um laboratorio onde a infecção teve inicio, mostrando qual foi o gatilho para o mundo ficar caotico.
 Mostrando o ambiente pré e pos vírus. Vamos controlar um cientista que participara da criação do vírus e nosso objetivo será escapar do laboratorio e chegar ao aeroporto para ir a outro pais antes que seja tarde.
+O jogo terá pouca luz, será ação, com uma temática de terror. 
 
 • Cena mundo antes do vírus, momento no laboratorio onde o cientista está observando a cobaia recém infectada;
 
