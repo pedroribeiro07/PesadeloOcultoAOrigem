@@ -69,3 +69,10 @@ O jogo será em primeira pessoa.
 • Jogador não possui nenhuma ferramenta capaz de derrotar o infectado.
 
 • Jogador deve seguir as instruções dadas durante o jogo. 
+
+
+Como referencia usamos o jogo Slender: The Eight Pages, que tem bastantes aspectos parecidos com o nosso
+![image](https://github.com/pedroribeiro07/PesadeloOcultoAOrigem/assets/106094573/d89285cb-ebd9-4bcc-a3ef-ce2a09576eac)
+
+
+
