@@ -1,4 +1,3 @@
-
 # Pesadelo oculto - A origem
 
 
@@ -39,16 +38,16 @@ Personagens Principais:
 ## Nosso Game
 
 Nosso jogo irá se passar em um laboratorio onde a infecção teve inicio, mostrando qual foi o gatilho para o mundo ficar caotico.
-Mostrando o ambiente pré e pos vírus. Vamos controlar um cientista que participara da criação do vírus e nosso objetivo será escapar do laboratorio e chegar ao aeroporto para ir a outro pais antes que seja tarde.
+Mostrando o ambiente pré e pos vírus. Vamos controlar um cientista que participara da criação do vírus e nosso objetivo será escapar do laboratorio e chegar a um local seguro antes que seja tarde. O jogo terá 3 cenas bases, onde a primeira o jogador deve procurar a chave para ir para a cobaia, na segunda cena ele deverá encontrar uma chave para abrir o lugar aonde a cobaia vai estar e depois fugir dela ate chegar para proxima cena, na terceira cena o objetivo do jogador é chegar até um local seguro em meio a um vasto laboratório enquanto a cobaia o persegue.
 O jogo terá pouca luz, será ação, com uma temática de terror. 
 
-• Cena mundo antes do vírus, momento no laboratorio onde o cientista está observando a cobaia recém infectada;
+• Cena mundo antes do vírus, momento onde o cientista irá verificar o estado da cobaia;
 
-O jogo vai iniciar com o cientista em um laborátorio escuro, e recebera a instrução de ir até a cobaia já infectada, após escultar um grito. 
+O jogo vai iniciar com o cientista em um laborátorio, e recebera a instrução de ir até a cobaia já infectada;
 
 • Cena sala da cobaia, momento em que o jogador deve começar a fugir;
 
-O cientista assim que chega até a cobaia para verificar o motivo do grito, percebe que a cobaia tinha se soltado, e não estava com as caracteristicas fisicas de um humano normal.
+O cientista assim que chega até a cobaia para verificar o seu estado, percebe que a cobaia tinha se soltado, e não estava com as caracteristicas fisicas de um humano normal.
 
 • Cena pós vírus, tentando escapar do laborátorio.
 
@@ -62,13 +61,17 @@ O jogo será em primeira pessoa.
 
 
 ## Regras
-• Jogador não pode ser pego pelo infectado.
+• Se o jogador for atingido pelo inimigo duas vezes ele morre.
 
 • Jogador precisa fugir e sair do laboratorio para ganhar o jogo.
 
 • Jogador não possui nenhuma ferramenta capaz de derrotar o infectado.
 
 • Jogador deve seguir as instruções dadas durante o jogo. 
+
+• Jogador deve procurar as chaves espalhadas pelo mapa.
+
+
 
 
 Como referencia usamos o jogo Slender: The Eight Pages, que tem bastantes aspectos parecidos com o nosso
